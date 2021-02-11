@@ -1,0 +1,22 @@
+#empty {
+    -fx-background-color: #05ff00;
+    -fx-border-color: black;
+}
+#booked{
+    -fx-background-color: #ff767b;
+    -fx-border-color: black;
+}
+
+#select{
+    -fx-background-color: yellow;
+}
+
+#heading{
+    -fx-font-size: 24px;
+    -fx-text-fill: #0015ff;
+}
+
+.root{
+    -fx-background-color: lightblue;
+}
+
